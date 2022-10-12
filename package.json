@@ -1,6 +1,6 @@
 {
   "name": "gngfingerprint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This plugin enable users to interface with USB based fingerprint device in ionic",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
